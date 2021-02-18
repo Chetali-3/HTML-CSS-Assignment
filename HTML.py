@@ -24,11 +24,11 @@
   <ul style =" list-style: ">
   <li>Here, sessions wise , You can see all the codes,we've learnt.</li>
   <p> <a href = "https://github.com/Chetali-3/python-coding-bootcamp"> GitHub Repository </a></p>
-  <li>We had given a CLI Project ,in which we made a 'ToDo Management' Assignment with Python through my Phone.</lidata="">
+  <li>We had given a CLI Project ,in which we made a 'ToDo Management' Assignment with Python through my Phone.</li>
   <p><a href = "https://github.com/Chetali-3/Python-assignment/blob/main/hello.py"> ToDo Management  Assignment </a></p>
-  <li>This portfolio is also a project . You can see the codes behind this page here = </li>
-
-
+  <li>This portfolio is also a project . You can see the codes behind this page here : </li>
+ <p><a href = "https://github.com/Chetali-3/HTML-CSS-Assignment"> HTML/CSS Assignment</a></p>
+ 
   <p>It's very interesting & enjoyable to learn and do codings through phone. I thank to Udayan Family for providing this great opportunity to us & My Mentors Pradipta Sir and Nancy Di for making us learn all this things in such an interesting manner.</p>
    <img6><img src="https://i.pinimg.com/originals/72/e5/a9/72e5a9d9eaaee40e85b3199841fe46fd.png"></img6>
 </body>
