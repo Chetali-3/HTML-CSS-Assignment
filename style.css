@@ -16,18 +16,18 @@ h1 {
   text-align: center;
   color: darkmagenta;
   font-family: cursive;
-  font-size: 40px;
+  font-size: 60px;
 }
 h2 {
   text-align: center;
   color: darkviolet;
-  font-size: 25px;
+  font-size: 50px;
   font-family: cursive;
 }
 p{
   text-align: center;
   color: lightslategrey;
-  font-size: 13px;
+  font-size: 30px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin-top: 1cm;
 }
@@ -36,7 +36,7 @@ a{
 }
 li{
   color: lightslategrey;
-  font-size: 13px;
+  font-size: 30px;
 }
 
 
