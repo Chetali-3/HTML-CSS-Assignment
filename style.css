@@ -6,16 +6,12 @@ body{
  margin:0.5cm;
 }
 img{
-  width : 3cm;
+  width : 160px;
+  max-height : 150px;
   float: left;
-  margin-left: 0.5cm;
+  margin-left: 0.5cm
 }
 
-img5{
-  width :2cm;
-  float: right;
-  margin-right: 3cm;
-}
 h1 {
   text-align: center;
   color: darkmagenta;
